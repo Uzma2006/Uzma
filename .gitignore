@@ -17,3 +17,6 @@ MLOps_Exp4/student_feature_store/feature_repo/data/registry.db
 # IDE files
 .vscode/
 .idea/
+MLOps_Exp6/venv/
+MLOps_Exp6/mlruns/
+MLOps_Exp6/mlflow.db

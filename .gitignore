@@ -1,0 +1,19 @@
+# Experiment 3 backup
+MLOps_Exp3_Backup/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Generated Feast databases
+MLOps_Exp4/student_feature_store/feature_repo/data/online_store.db
+MLOps_Exp4/student_feature_store/feature_repo/data/registry.db
+
+# IDE files
+.vscode/
+.idea/
